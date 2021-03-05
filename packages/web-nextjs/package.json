@@ -7,7 +7,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "components": "0.0.1",
+    "@components/shared": "0.0.1",
     "next": "10.0.8-canary.17",
     "next-transpile-modules": "6.3.0",
     "react": "17.0.1",

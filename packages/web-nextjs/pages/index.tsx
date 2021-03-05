@@ -1,3 +1,3 @@
-import { App } from 'components/src/App'
+import { App } from '@components/shared/src/App'
 
 export default App
